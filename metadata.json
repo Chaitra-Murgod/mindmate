@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MINDMATE",
+  "description": "An AI Mental Health Companion for Gen Z. Empathetic conversations, emotional detection, and actionable mental wellness suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
